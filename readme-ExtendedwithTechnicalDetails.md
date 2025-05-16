@@ -208,11 +208,7 @@ SatelliteImages/
 A video demonstration of the application in action is included in the project:
 
 ```
-SatelliteImagesScreenRecording.mp4
+https://www.youtube.com/watch?v=ghLbLN6X2mE
 ```
 
 This recording shows the real-time classification system working with different satellite images, demonstrating how the model identifies various land use categories from satellite imagery and displays confidence scores.
-
-To view the demo:
-1. Clone the repository
-2. Open the video file at `SatelliteImagesScreenRecording.mp4`
