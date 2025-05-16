@@ -37,3 +37,5 @@ Remember folks, if you see someone staring intensely at satellite imagery and sh
 So, whether you're an aspiring urban planner, a curious data scientist, or just someone who likes to play "I Spy" with continents, this project has something for everyone. Who knew that teaching a computer to recognize a parking lot from space could be so much fun? 🚗🅿️
 
 Now, if you'll excuse me, I need to go explain to my neighbors why I'm on the roof with a satellite dish and a laptop. It's for science, I swear! 👨‍🔬🛰️
+
+https://www.youtube.com/watch?v=ghLbLN6X2mE
