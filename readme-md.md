@@ -2,7 +2,7 @@
 
 This project implements deep learning models to classify land uses and land covers from satellite imagery. It includes both a custom CNN model and a transfer learning approach using MobileNetV2.
 
-[![Demo Video](https://img.shields.io/badge/Demo-Watch%20Video-blue)](SatelliteImagesScreenRecording.mp4)
+https://youtu.be/ghLbLN6X2mE
 
 ## Project Overview
 
